@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main(){
 	int number;
-	int chia;
 	printf("hay nhap so nguyen: ");
 	scanf("%d", &number);
 	if(number % 3 == 0 && number % 5 == 0){
